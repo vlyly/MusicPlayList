@@ -215,7 +215,7 @@ audio:focus {
   border-radius: 5px;
 }
 
-.musicPlayer-quitButton {
+.musicPlayer-closeButton {
   position: absolute;
   top: 20px;
   right: 20px;
@@ -228,7 +228,7 @@ audio:focus {
   color: rgba(207, 134, 145, 1);
 }
 
-.musicPlayer-quitButton:hover {
+.musicPlayer-closeButton:hover {
   opacity: 50%;
 }
 
