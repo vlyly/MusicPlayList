@@ -30,6 +30,7 @@ l. 목표<br>
 1. html 요소를 동적으로 추가하고 제거하는 방법(createElement, removeElement)<br>
 2. css animation을 다루는 방법<br>
 3. document.querySelector, document.querySelectorAll의 차이점, cloneNode의 사용법 등 DOM 요소들을 JS로 다루는 다양한 방법들에 대한 기초<br>
+4. Array.prototype.forEach ie 미지원
 
 
 <hr>
